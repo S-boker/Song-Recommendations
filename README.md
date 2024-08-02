@@ -2,8 +2,9 @@
 
 ## The problem:
 
-The NPDB, the National Practitioner Data Bank, has public data avaible [here](https://www.npdb.hrsa.gov/resources/publicData.jsp) on malpratice payments. The objective of this project is to classify 
-payment that are under, over, or exactly six-figure payments. 
+   - Given over 1 million songs and a user’s input of like songs, can we recommend new songs that are not on this list?
+
+   - Can we also do it quickly, incase we need to train and produce new data as soon as possible?
 
 ## Solution(s)
 
